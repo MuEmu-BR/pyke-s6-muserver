@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ItemList>
+	<Section Index="1" Name="Min Attack Power Increase">
+		<Item Level="0" Name="Min Attack Power Increase +2" />
+		<Item Level="1" Name="Min Attack Power Increase +3" />
+		<Item Level="2" Name="Min Attack Power Increase +4" />
+		<Item Level="3" Name="Min Attack Power Increase +5" />
+		<Item Level="4" Name="Min Attack Power Increase +6" />
+		<Item Level="5" Name="Min Attack Power Increase +7" />
+		<Item Level="6" Name="Min Attack Power Increase +9" />
+		<Item Level="7" Name="Min Attack Power Increase +11" />
+		<Item Level="8" Name="Min Attack Power Increase +12" />
+		<Item Level="9" Name="Min Attack Power Increase +14" />
+		<Item Level="10" Name="Min Attack Power Increase +15" />
+		<Item Level="11" Name="Min Attack Power Increase +16" />
+		<Item Level="12" Name="Min Attack Power Increase +17" />
+		<Item Level="13" Name="Min Attack Power Increase +20" />
+	</Section>
+	<Section Index="2" Name="Max Attack Power Increase">
+		<Item Level="0" Name="Max Attack Power Increase +3" />
+		<Item Level="1" Name="Max Attack Power Increase +4" />
+		<Item Level="2" Name="Max Attack Power Increase +5" />
+		<Item Level="3" Name="Max Attack Power Increase +6" />
+		<Item Level="4" Name="Max Attack Power Increase +7" />
+		<Item Level="5" Name="Max Attack Power Increase +8" />
+		<Item Level="6" Name="Max Attack Power Increase +10" />
+		<Item Level="7" Name="Max Attack Power Increase +12" />
+		<Item Level="8" Name="Max Attack Power Increase +14" />
+		<Item Level="9" Name="Max Attack Power Increase +17" />
+		<Item Level="10" Name="Max Attack Power Increase +20" />
+		<Item Level="11" Name="Max Attack Power Increase +23" />
+		<Item Level="12" Name="Max Attack Power Increase +26" />
+		<Item Level="13" Name="Max Attack Power Increase +29" />
+	</Section>
+	<Section Index="3" Name="Need Strength Decrease">
+		<Item Level="0" Name="Need Strength Decrease -6" />
+		<Item Level="1" Name="Need Strength Decrease -8" />
+		<Item Level="2" Name="Need Strength Decrease -10" />
+		<Item Level="3" Name="Need Strength Decrease -12" />
+		<Item Level="4" Name="Need Strength Decrease -14" />
+		<Item Level="5" Name="Need Strength Decrease -16" />
+		<Item Level="6" Name="Need Strength Decrease -20" />
+		<Item Level="7" Name="Need Strength Decrease -23" />
+		<Item Level="8" Name="Need Strength Decrease -26" />
+		<Item Level="9" Name="Need Strength Decrease -29" />
+		<Item Level="10" Name="Need Strength Decrease -32" />
+		<Item Level="11" Name="Need Strength Decrease -35" />
+		<Item Level="12" Name="Need Strength Decrease -37" />
+		<Item Level="13" Name="Need Strength Decrease -40" />
+	</Section>
+	<Section Index="4" Name="Need Agility Decrease">
+		<Item Level="0" Name="Need Agility Decrease -6" />
+		<Item Level="1" Name="Need Agility Decrease -8" />
+		<Item Level="2" Name="Need Agility Decrease -10" />
+		<Item Level="3" Name="Need Agility Decrease -12" />
+		<Item Level="4" Name="Need Agility Decrease -14" />
+		<Item Level="5" Name="Need Agility Decrease -16" />
+		<Item Level="6" Name="Need Agility Decrease -20" />
+		<Item Level="7" Name="Need Agility Decrease -23" />
+		<Item Level="8" Name="Need Agility Decrease -26" />
+		<Item Level="9" Name="Need Agility Decrease -29" />
+		<Item Level="10" Name="Need Agility Decrease -32" />
+		<Item Level="11" Name="Need Agility Decrease -35" />
+		<Item Level="12" Name="Need Agility Decrease -37" />
+		<Item Level="13" Name="Need Agility Decrease -40" />
+	</Section>
+	<Section Index="5" Name="Attack (Min,Max) Increase">
+		<Item Level="6" Name="Attack (Min,Max) Increase +7" />
+		<Item Level="7" Name="Attack (Min,Max) Increase +8" />
+		<Item Level="8" Name="Attack (Min,Max) Increase +9" />
+		<Item Level="9" Name="Attack (Min,Max) Increase +11" />
+		<Item Level="10" Name="Attack (Min,Max) Increase +12" />
+		<Item Level="11" Name="Attack (Min,Max) Increase +14" />
+		<Item Level="12" Name="Attack (Min,Max) Increase +16" />
+		<Item Level="13" Name="Attack (Min,Max) Increase +19" />
+	</Section>
+	<Section Index="6" Name="Critical Damage Increase">
+		<Item Level="6" Name="Critical Damage Increase +12" />
+		<Item Level="7" Name="Critical Damage Increase +14" />
+		<Item Level="8" Name="Critical Damage Increase +16" />
+		<Item Level="9" Name="Critical Damage Increase +18" />
+		<Item Level="10" Name="Critical Damage Increase +20" />
+		<Item Level="11" Name="Critical Damage Increase +22" />
+		<Item Level="12" Name="Critical Damage Increase +24" />
+		<Item Level="13" Name="Critical Damage Increase +30" />
+	</Section>
+	<Section Index="7" Name="Skill Power Increase">
+		<Item Level="9" Name="Skill Power Increase +12" />
+		<Item Level="10" Name="Skill Power Increase +14" />
+		<Item Level="11" Name="Skill Power Increase +16" />
+		<Item Level="12" Name="Skill Power Increase +18" />
+		<Item Level="13" Name="Skill Power Increase +22" />
+	</Section>
+	<Section Index="8" Name="Attack Rate Increase">
+		<Item Level="9" Name="Attack Rate Increase +5" />
+		<Item Level="10" Name="Attack Rate Increase +7" />
+		<Item Level="11" Name="Attack Rate Increase +9" />
+		<Item Level="12" Name="Attack Rate Increase +11" />
+		<Item Level="13" Name="Attack Rate Increase +14" />
+	</Section>
+	<Section Index="9" Name="SD Rate Increase">
+		<Item Level="9" Name="SD Rate Increase +3" />
+		<Item Level="10" Name="SD Rate Increase +5" />
+		<Item Level="11" Name="SD Rate Increase +7" />
+		<Item Level="12" Name="SD Rate Increase +9" />
+		<Item Level="13" Name="SD Rate Increase +10" />
+	</Section>
+	<Section Index="10" Name="SD Ignore Rate Increase">
+		<Item Level="13" Name="SD Ignore Rate Increase +10" />
+	</Section>
+</ItemList>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+// ### PremiumDropSystem ###
+//	Enable: Activates or deactivates the system, 0/1
+//
+// ### ZenDropSystem::Group ###
+// MapNumber: Map number
+// MonsterClass: The index of the mob from Monster.txt
+// MonsterLevelMin: Minimum mob level
+// MonsterLevelMax: The maximum level of the mob
+// PremiumLevel: Premium level (0 - No premium, 1 - First level, 2 - Second, 3 - Third level)
+// TimeValue: Time for which the premium is issued (In seconds)
+// TimeForBiggerAL: VIP time in seconds, for a character who already has a higher level VIP
+// DropRate: Drop rate (0 - 1000000)
+//
+// STRICTLY NO COMMENTS INSIDE TAGS
+-->
+
+<PremiumDrop Enable="1">
+	<Group MapNumber="-1"  MonsterClass="590" MonsterLevelMin="-1" MonsterLevelMax="-1" PremiumLevel="3" TimeValue="86400" TimeForBiggerAL="43200" DropRate="1000000"/>
+</PremiumDrop>

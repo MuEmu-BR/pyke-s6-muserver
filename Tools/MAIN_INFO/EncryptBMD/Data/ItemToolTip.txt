@@ -1,0 +1,34 @@
+//====================================================================
+//-- Color Type:
+//====================================================================
+//-- TEXT_BLUE		=	1
+//-- TEXT_RED		=	2
+//-- TEXT_GOLD		=	3
+//-- TEXT_GREN		=	4
+//-- TEXT_WHITE_RED	=	5
+//-- TEXT_PINK		=	6
+//-- TEXT_WHITE_BLUE	=	7
+//-- TEXT_WHITE_YELLOW	=	8
+//-- TEXT_GREN_BLUE	=	9
+//-- TEXT_GRAY		=	10
+//-- TEXT_PINK2		=	11
+//-- TEXT_PURPLE	=	12
+//-- TEXT_ORANGE	=	13
+//-- TEXT_WHITE		=	14
+//-- DeepPink1		=	15 (255 20 147)
+//-- RoyalBlue1		=	16 (72 118 255)
+//-- SlateBlue1		=	17 (131 111 255)
+//-- Azure2		=	18 (224 238 238)
+//-- DarkSlateGray1	=	19 (151 255 255)
+//-- SlateGray1		=	20 (198 226 255)
+//-- MistyRose1		=	21 (255 228 225)
+//-- LightSlateBlue	=	22 (132 112 255)
+//-- DeepSkyBlue1	=	23 (0 191 255)
+//-- Turquoise1		=	24 (0 245 255)
+//====================================================================
+//--Item	Name			Color	Index1	Color1	Index2	Color2	Index3	Color3	Index4	Color4	Index5	Color5	Index6	Color6	Index7	Color7	Index8	Color8	Index9	Color9	Index10	Color10	Index11	Color11	Index12	Color12	Index13	Color13	Index14	Color14	Index15	Color15
+//1		"Opcion [Sword]"	19	1	9	2	8	3	11	4	1	5	3	6	10	7	10	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+//2		"Opcion [Sword]"	7	1	9	2	8	3	11	4	1	5	3	6	10	7	10	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+//22		"Opcion [Sword]"	7	1	9	2	8	3	11	4	1	5	3	6	10	7	10	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+//28		"Opcion [Sword]"	7	1	9	2	8	3	11	4	1	5	3	6	10	7	10	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+end

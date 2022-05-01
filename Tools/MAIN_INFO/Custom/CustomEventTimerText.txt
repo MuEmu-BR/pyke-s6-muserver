@@ -1,0 +1,15 @@
+//Index  //Text
+0  "Castle Siege"
+1  "Illusion Temple"
+2  "CryWolf"
+3  "Epic Dragon"
+4  "Medusa"
+5  "Ice Golem"
+6  "Gold Invasion"
+7  "Blood Castle"
+8  "Chaos Castle"
+9  "Devil Square"
+10  "White Wizzard"
+11  "Red Dragon"
+12  "Skeleton King"
+end

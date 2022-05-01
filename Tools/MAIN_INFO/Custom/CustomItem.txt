@@ -1,0 +1,13 @@
+//=======================================================
+// Index     = ItemIndex: (Type * 512) + Index;
+// R         = ColorRed;
+// G         = ColorGreen;
+// B         = ColorBlue;
+// ModelName = "Name" file bmd of the model;
+//=======================================================
+//Index		R	G	B	ModelName
+//=======================================================
+7349      	0       0       0       "SilverCoin"
+7350      	0       0       0       "PlatinumCoin"
+7351      	0       0       0       "GoldCoin"
+end

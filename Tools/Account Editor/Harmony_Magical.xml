@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ItemList>
+	<Section Index="1" Name="Magic Power Increase">
+		<Item Level="0" Name="Magic Power Increase +6" />
+		<Item Level="1" Name="Magic Power Increase +8" />
+		<Item Level="2" Name="Magic Power Increase +10" />
+		<Item Level="3" Name="Magic Power Increase +12" />
+		<Item Level="4" Name="Magic Power Increase +14" />
+		<Item Level="5" Name="Magic Power Increase +16" />
+		<Item Level="6" Name="Magic Power Increase +17" />
+		<Item Level="7" Name="Magic Power Increase +18" />
+		<Item Level="8" Name="Magic Power Increase +19" />
+		<Item Level="9" Name="Magic Power Increase +21" />
+		<Item Level="10" Name="Magic Power Increase +23" />
+		<Item Level="11" Name="Magic Power Increase +25" />
+		<Item Level="12" Name="Magic Power Increase +27" />
+		<Item Level="13" Name="Magic Power Increase +31" />
+	</Section>
+	<Section Index="2" Name="Need Strength Decrease">
+		<Item Level="0" Name="Need Strength Decrease -6" />
+		<Item Level="1" Name="Need Strength Decrease -8" />
+		<Item Level="2" Name="Need Strength Decrease -10" />
+		<Item Level="3" Name="Need Strength Decrease -12" />
+		<Item Level="4" Name="Need Strength Decrease -14" />
+		<Item Level="5" Name="Need Strength Decrease -16" />
+		<Item Level="6" Name="Need Strength Decrease -20" />
+		<Item Level="7" Name="Need Strength Decrease -23" />
+		<Item Level="8" Name="Need Strength Decrease -26" />
+		<Item Level="9" Name="Need Strength Decrease -29" />
+		<Item Level="10" Name="Need Strength Decrease -32" />
+		<Item Level="11" Name="Need Strength Decrease -35" />
+		<Item Level="12" Name="Need Strength Decrease -37" />
+		<Item Level="13" Name="Need Strength Decrease -40" />
+	</Section>
+	<Section Index="3" Name="Need Agility Decrease">
+		<Item Level="0" Name="Need Agility Decrease -6" />
+		<Item Level="1" Name="Need Agility Decrease -8" />
+		<Item Level="2" Name="Need Agility Decrease -10" />
+		<Item Level="3" Name="Need Agility Decrease -12" />
+		<Item Level="4" Name="Need Agility Decrease -14" />
+		<Item Level="5" Name="Need Agility Decrease -16" />
+		<Item Level="6" Name="Need Agility Decrease -20" />
+		<Item Level="7" Name="Need Agility Decrease -23" />
+		<Item Level="8" Name="Need Agility Decrease -26" />
+		<Item Level="9" Name="Need Agility Decrease -29" />
+		<Item Level="10" Name="Need Agility Decrease -32" />
+		<Item Level="11" Name="Need Agility Decrease -35" />
+		<Item Level="12" Name="Need Agility Decrease -37" />
+		<Item Level="13" Name="Need Agility Decrease -40" />
+	</Section>
+	<Section Index="4" Name="Skill Power Increase">
+		<Item Level="6" Name="Skill Power Increase +7" />
+		<Item Level="7" Name="Skill Power Increase +10" />
+		<Item Level="8" Name="Skill Power Increase +13" />
+		<Item Level="9" Name="Skill Power Increase +16" />
+		<Item Level="10" Name="Skill Power Increase +19" />
+		<Item Level="11" Name="Skill Power Increase +22" />
+		<Item Level="12" Name="Skill Power Increase +25" />
+		<Item Level="13" Name="Skill Power Increase +30" />
+	</Section>
+	<Section Index="5" Name="Critical Damage Increase">
+		<Item Level="6" Name="Critical Damage Increase +10" />
+		<Item Level="7" Name="Critical Damage Increase +12" />
+		<Item Level="8" Name="Critical Damage Increase +14" />
+		<Item Level="9" Name="Critical Damage Increase +16" />
+		<Item Level="10" Name="Critical Damage Increase +18" />
+		<Item Level="11" Name="Critical Damage Increase +20" />
+		<Item Level="12" Name="Critical Damage Increase +22" />
+		<Item Level="13" Name="Critical Damage Increase +28" />
+	</Section>
+	<Section Index="6" Name="SD Rate Increase">
+		<Item Level="9" Name="SD Rate Increase +4" />
+		<Item Level="10" Name="SD Rate Increase +6" />
+		<Item Level="11" Name="SD Rate Increase +8" />
+		<Item Level="12" Name="SD Rate Increase +10" />
+		<Item Level="13" Name="SD Rate Increase +13" />
+	</Section>
+</ItemList>

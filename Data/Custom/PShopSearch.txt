@@ -1,0 +1,6 @@
+[Common]
+Enable = 1
+NPC_CLASS = 613
+NPC_MAP = 0
+NPC_X = 131
+NPC_Y = 134

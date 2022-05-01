@@ -1,0 +1,3 @@
+//Index	Map MaxLife DamageMin DamageMax Defense AttackRate DefenseRate ExpRate KillMessage InfoMessage WCoinC WCoinP Goblin Ruud   SummonMonster SummonMonterCount
+1	*   50      100       100       100     100        100         100     *           *           *     *      *     * 	   *             *
+end

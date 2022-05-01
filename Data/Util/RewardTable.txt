@@ -1,0 +1,23 @@
+//=======================================================================
+// Developer Project: takumi12
+//=======================================================================
+// SYTEM REWARD
+//=======================================================================
+// Descripcion: Paquete de Premio por sistema de reset
+//=======================================================================
+// Class: 0 = Dark Wizard
+// Class: 1 = Dark Knight
+// Class: 2 = Muse Elf
+// Class: 3 = Magic Gladiator
+// Class: 4 = Dark Lord
+// Class: 5 = Summoner
+// Class: 6 = Rage Fighter
+//=======================================================================
+
+0
+//=============================================================================================================================================
+//Class Reset MReset AL0 AL1 AL2 AL3 Type Index Level Dur Skill Luck Option ExcOp SetOp JoH OEx Socket1 Socket2 Socket3 Socket4 Socket5	Comment
+0	-1	0    0   1   2   3   14   11    12    1   0	   0	0      0     0     0   0   255	   255	   255	   255	   255	// Box Of Kundun +5
+0	-1	0    0   1   2   3   14   11    11    1   0	   0	0      0     0     0   0   255	   255	   255	   255	   255	// Box Of Kundun +5
+1	-1	0    1   2   3   4   14   11    12    1   0	   0	0      0     0     0   0   255	   255	   255	   255	   255	// Box Of Kundun +5
+end

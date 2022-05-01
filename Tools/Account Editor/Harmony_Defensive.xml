@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ItemList>
+	<Section Index="1" Name="Def Power Increase">
+		<Item Level="0" Name="Def Power Increase +3" />
+		<Item Level="1" Name="Def Power Increase +4" />
+		<Item Level="2" Name="Def Power Increase +5" />
+		<Item Level="3" Name="Def Power Increase +6" />
+		<Item Level="4" Name="Def Power Increase +7" />
+		<Item Level="5" Name="Def Power Increase +8" />
+		<Item Level="6" Name="Def Power Increase +10" />
+		<Item Level="7" Name="Def Power Increase +12" />
+		<Item Level="8" Name="Def Power Increase +14" />
+		<Item Level="9" Name="Def Power Increase +16" />
+		<Item Level="10" Name="Def Power Increase +18" />
+		<Item Level="11" Name="Def Power Increase +20" />
+		<Item Level="12" Name="Def Power Increase +22" />
+		<Item Level="13" Name="Def Power Increase +25" />
+	</Section>
+	<Section Index="2" Name="Max AG Increase">
+		<Item Level="3" Name="Max AG Increase +4" />
+		<Item Level="4" Name="Max AG Increase +6" />
+		<Item Level="5" Name="Max AG Increase +8" />
+		<Item Level="6" Name="Max AG Increase +10" />
+		<Item Level="7" Name="Max AG Increase +12" />
+		<Item Level="8" Name="Max AG Increase +14" />
+		<Item Level="9" Name="Max AG Increase +16" />
+		<Item Level="10" Name="Max AG Increase +18" />
+		<Item Level="11" Name="Max AG Increase +20" />
+		<Item Level="12" Name="Max AG Increase +22" />
+		<Item Level="13" Name="Max AG Increase +25" />
+	</Section>
+	<Section Index="3" Name="Max HP Increase">
+		<Item Level="3" Name="Max HP Increase +7" />
+		<Item Level="4" Name="Max HP Increase +9" />
+		<Item Level="5" Name="Max HP Increase +11" />
+		<Item Level="6" Name="Max HP Increase +13" />
+		<Item Level="7" Name="Max HP Increase +15" />
+		<Item Level="8" Name="Max HP Increase +17" />
+		<Item Level="9" Name="Max HP Increase +19" />
+		<Item Level="10" Name="Max HP Increase +21" />
+		<Item Level="11" Name="Max HP Increase +23" />
+		<Item Level="12" Name="Max HP Increase +25" />
+		<Item Level="13" Name="Max HP Increase +30" />
+	</Section>
+	<Section Index="4" Name="HP Auto Rate Increase">
+		<Item Level="6" Name="HP Auto Rate Increase +1" />
+		<Item Level="7" Name="HP Auto Rate Increase +2" />
+		<Item Level="8" Name="HP Auto Rate Increase +3" />
+		<Item Level="9" Name="HP Auto Rate Increase +4" />
+		<Item Level="10" Name="HP Auto Rate Increase +5" />
+		<Item Level="11" Name="HP Auto Rate Increase +6" />
+		<Item Level="12" Name="HP Auto Rate Increase +7" />
+		<Item Level="13" Name="HP Auto Rate Increase +8" />
+	</Section>
+	<Section Index="5" Name="MP Auto Rate Increase">
+		<Item Level="9" Name="MP Auto Rate Increase +1" />
+		<Item Level="10" Name="MP Auto Rate Increase +2" />
+		<Item Level="11" Name="MP Auto Rate Increase +3" />
+		<Item Level="12" Name="MP Auto Rate Increase +4" />
+		<Item Level="13" Name="MP Auto Rate Increase +5" />
+	</Section>
+	<Section Index="6" Name="Def Success Rate Increase">
+		<Item Level="9" Name="Def Success Rate Increase +3" />
+		<Item Level="10" Name="Def Success Rate Increase +4" />
+		<Item Level="11" Name="Def Success Rate Increase +5" />
+		<Item Level="12" Name="Def Success Rate Increase +6" />
+		<Item Level="13" Name="Def Success Rate Increase +8" />
+	</Section>
+	<Section Index="7" Name="Damage Rate Increase">
+		<Item Level="9" Name="Damage Rate Increase +3" />
+		<Item Level="10" Name="Damage Rate Increase +4" />
+		<Item Level="11" Name="Damage Rate Increase +5" />
+		<Item Level="12" Name="Damage Rate Increase +6" />
+		<Item Level="13" Name="Damage Rate Increase +7" />
+	</Section>
+</ItemList>

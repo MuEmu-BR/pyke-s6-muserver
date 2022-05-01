@@ -1,0 +1,10 @@
+//-- Index	Text
+1		"opcion de Incremento 4%"
+2		"opcion de Daño 7%"
+3		"opcion de Exp 4%"
+4		"opcion de Vulnerabilidad 4%"
+5		"opcion de torbellino 4%"
+6		"opcion de attack 10%"
+7		"Incrementa 10% de vida"
+8		"Incrementa 10% de vida"
+end

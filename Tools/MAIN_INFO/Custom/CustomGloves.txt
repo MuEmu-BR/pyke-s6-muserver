@@ -1,0 +1,16 @@
+//===============================================================================================================
+// CustomGloves Config File
+//===============================================================================================================
+// Agregar archivos en: [Data/Item]
+//===============================================================================================================
+//GlovesID	Model		LeftIndex	LeftModel		RightIndex	RightModel        	ColorR	ColorG	ColorB	name
+//46		"BloodangelClo"	400		"BloodangelClo_L"	401		"BloodangelClo_R"	205	192	176	//Bloodangel Claws
+//56		"Sword39"	402		"Sword39_L"		403		"Sword39_R"		255	226	115	//Darkangel Claws
+//59		"Sword40"	404		"Sword40_L"		405		"Sword40_R"		255	197	57	//Holyangel Claws
+//60		"Sword41"	406		"Sword41_L"		407		"Sword41_R"		255	232	112	//Archangel Absolute Claws
+//61		"Sword42"	408		"Sword42_L"		409		"Sword42_R"		253	255	119	//Blessed Arch's Absolute Claws
+//64		"Sword43"	410		"Sword43_L"		411		"Sword43_R"		239	154	70	//Soul Claws
+//80		"Sword44"	412		"Sword44_L"		413		"Sword44_R"		127	127	127	//Blue Eye Claw
+//52		"Sword37"	414		"Sword37_L"		415		"Sword37_R"		127	127	127	//pantera
+//81		"GloveDragon"	416		"GloveDragonL"		417		"GloveDragonR"		127	127	127	//pantera
+end

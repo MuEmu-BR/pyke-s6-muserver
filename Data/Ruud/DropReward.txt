@@ -1,0 +1,13 @@
+0
+//Index ItemType ItemIndex DropZen DropRate   Message Fireworks
+0	14	 170	   1000	    10	      36      1
+1	14	 171	   1000	    70        36      1
+2	14	 172	   1000	    70        36      1
+end
+
+1
+//Index RuudMin	RuudMax	WCoinCMin  WCoinCMax  WCoinPMin  WCoinPMax  GoblinPMin  GoblinPMax
+0	100	200	10	   50	      *		 *	    *		*
+1	100	500	*	   *	      *		 *	    *		*
+2	300	1000	*	   *	      *		 *	    *		*
+end

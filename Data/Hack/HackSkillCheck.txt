@@ -1,0 +1,2 @@
+//SkillIndex  	MinSpeed  MaxSpeed  MaxDelay     MaxCount   Comment
+end

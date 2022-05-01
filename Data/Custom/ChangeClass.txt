@@ -1,0 +1,11 @@
+[Common]
+//Type 0 = Zen ; 1 = wCoinC ; 2 = wCoinP ; 3 = Goblin Point
+PriceType_AL0 = 1
+PriceType_AL1 = 1
+PriceType_AL2 = 1
+PriceType_AL3 = 1
+
+Price_AL0 = 500
+Price_AL1 = 400
+Price_AL2 = 300
+Price_AL3 = 200

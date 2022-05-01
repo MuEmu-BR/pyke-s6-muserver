@@ -1,0 +1,39 @@
+<!--
+// ### Requirement ###
+//	ItemCat: Require item category, refer to \Data\Item\ItemList.xml
+//	ItemIndex: Require item index, refer to \Data\Item\ItemList.xml
+//	ItemLevel: Require item level
+//	ItemCount: Require count of item to drop
+//	Fireworks: Send fireworks after drop
+//
+// ### ItemList ###
+//	ItemDropCount: Amount of item drop
+//
+// ### ItemList::Item ###
+//	Cat: Item category, refer to \Data\Item\ItemList.xml
+//	Index: Item index, refer to \Data\Item\ItemList.xml
+//	Durability: Durability is optional attribute, if used then defined value will be used, otherwise generated automatically, 0-255
+//	LevelOption: Item level option, refer to ItemOptionRate.xml [ItemOptionRate::LevelOption::Option::Index] -1: No option
+//	SkillOption: Item skill option, refer to ItemOptionRate.xml [ItemOptionRate::SkillOption::Option::Index] -1: No option
+//	LuckOption: Item luck option, refer to ItemOptionRate.xml [ItemOptionRate::LuckOption::Option::Index] -1: No option
+//	JoLOption: Item JoL option, refer to ItemOptionRate.xml [ItemOptionRate::JoLOption::Option::Index] -1: No option
+//	ExcOption: Item exc option, refer to ItemOptionRate.xml [ItemOptionRate::ExcOption::Option::Index]  -1: No option
+//	SetOption: Item set option, refer to ItemOptionRate.xml [ItemOptionRate::SetOption::Option::Index] -1: No option
+//	SocketOption: socket level option, refer to ItemOptionRate.xml [ItemOptionRate::SocketOption::Option::Index] -1: No option
+//	Duration: Duration of item, 0: no limit.
+//	Rate: Drop rate of items from the item list, n/10000
+-->
+
+<Requirement ItemCat="14" ItemIndex="21" ItemLevel="0" ItemCount="10" Fireworks="1" />
+
+<ItemList ItemDropCount="1">
+	<Item Cat="12" Index="30" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="-1" JoLOption="-1" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" Rate="1000" />
+	<Item Cat="12" Index="31" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="-1" JoLOption="-1" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" Rate="2000" />
+	<Item Cat="12" Index="136" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="-1" JoLOption="-1" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" Rate="1000" />
+	<Item Cat="12" Index="137" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="-1" JoLOption="-1" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" Rate="1000" />
+	<Item Cat="12" Index="137" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="-1" JoLOption="-1" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" Rate="1000" />
+	<Item Cat="14" Index="181" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="-1" JoLOption="-1" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" Rate="1000" />
+	<Item Cat="13" Index="46" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="-1" JoLOption="-1" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" Rate="1000" />
+	<Item Cat="13" Index="47" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="-1" JoLOption="-1" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" Rate="1000" />
+	<Item Cat="13" Index="48" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="-1" JoLOption="-1" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" Rate="1000" />
+</ItemList>

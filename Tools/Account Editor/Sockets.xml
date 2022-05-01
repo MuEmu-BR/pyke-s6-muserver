@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ItemList>
+	<Section Index="1" Name="Sockets">
+		<!--  -->
+		<Item Hex="FE" Name="EMPTY" OptType="ALL" />
+		<Item Hex="FF" Name="NONE" OptType="ALL" />
+		<!-- 1 LVL -->
+		<Item Hex="00" Name="Fire((Level type)Attack/Wizardry increase +19)" OptType="Weapon" />
+		<Item Hex="01" Name="Fire(Attack speed increase +7)" OptType="Weapon" />
+		<Item Hex="02" Name="Fire(Maximum attack/Wizardry increase +30)" OptType="Weapon" />
+		<Item Hex="03" Name="Fire(Minimum attack/Wizardry increase +20)" OptType="Weapon" />
+		<Item Hex="04" Name="Fire(Attack/Wizardry increase +20)" OptType="Weapon" />
+		<Item Hex="05" Name="Fire(AG cost decrease +40%)" OptType="Weapon" />
+		<Item Hex="0A" Name="Water(Block rating increase +10%)" OptType="Armor" />
+		<Item Hex="0B" Name="Water(Defense increase +30)" OptType="Armor" />
+		<Item Hex="0C" Name="Water(Shield protection increase +7%)" OptType="Armor" />
+		<Item Hex="0D" Name="Water(Damage reduction +4%)" OptType="Armor" />
+		<Item Hex="0E" Name="Water(Damage reflection +5%)" OptType="Armor" />
+		<Item Hex="10" Name="Ice(Monster destruction for the Life increase +56)" OptType="Weapon" />
+		<Item Hex="11" Name="Ice(Monster destruction for the Mana increase +56)" OptType="Weapon" />
+		<Item Hex="12" Name="Ice(Skill attack increase +37)"  OptType="Weapon"/>
+		<Item Hex="13" Name="Ice(Attack rating increase +25)" OptType="Weapon" />
+		<Item Hex="14" Name="Ice(Item durability increase +30%)" OptType="Weapon" />
+		<Item Hex="15" Name="Wind(Automatic Life recovery increase +8)" OptType="Armor" />
+		<Item Hex="16" Name="Wind(Maximum Life increase +4%)" OptType="Armor" />
+		<Item Hex="17" Name="Wind(Maximum Mana increase +4%)" OptType="Armor" />
+		<Item Hex="18" Name="Wind(Automatic Mana recovery increase +7)" OptType="Armor" />
+		<Item Hex="19" Name="Wind(Maximum AG increase +25)" OptType="Armor" />
+		<Item Hex="1A" Name="Wind(AG value increase +3)" OptType="Armor" />
+		<Item Hex="1D" Name="Lightning(Excellent damage increase +15)" OptType="Weapon" />
+		<Item Hex="1E" Name="Lighting(Excellent damage rate increase +10%)" OptType="Weapon" />
+		<Item Hex="1F" Name="Lighting(Critical damage increase +30)" OptType="Weapon" />
+		<Item Hex="20" Name="Lighting(Critical damage rate increase +8%)" OptType="Weapon" />
+		<Item Hex="24" Name="Ground(Health increase +30)" OptType="Armor" />
+		<!-- 2 LVL -->
+		<Item Hex="32" Name="Fire((Level type)Attack/Wizardry increase +20)" OptType="Weapon" />
+		<Item Hex="33" Name="Fire(Attack speed increase +8)" OptType="Weapon" />
+		<Item Hex="34" Name="Fire(Maximum attack/Wizardry increase +32)" OptType="Weapon" />
+		<Item Hex="35" Name="Fire(Minimum attack/Wizardry increase +22)" OptType="Weapon" />
+		<Item Hex="36" Name="Fire(Attack/Wizardry increase +22)" OptType="Weapon" />
+		<Item Hex="37" Name="Fire(AG cost decrease +41%)" OptType="Weapon" />
+		<Item Hex="3C" Name="Water(Block rating increase +11%)" OptType="Armor" />
+		<Item Hex="3D" Name="Water(Defense increase +33)" OptType="Armor" />
+		<Item Hex="3E" Name="Water(Shield protection increase +10%)" OptType="Armor" />
+		<Item Hex="3F" Name="Water(Damage reduction +5%)" OptType="Armor" />
+		<Item Hex="40" Name="Water(Damage reflection +6%)" OptType="Armor" />
+		<Item Hex="42" Name="Ice(Monster destruction for the Life increase +64)" OptType="Weapon" />
+		<Item Hex="43" Name="Ice(Monster destruction for the Mana increase +64)" OptType="Weapon" />
+		<Item Hex="44" Name="Ice(Skill attack increase +40)" OptType="Weapon" />
+		<Item Hex="45" Name="Ice(Attack rating increase +27)" OptType="Weapon" />
+		<Item Hex="46" Name="Ice(Item durability increase +32%)" OptType="Weapon" />
+		<Item Hex="47" Name="Wind(Automatic Life recovery increase +10)" OptType="Armor" />
+		<Item Hex="48" Name="Wind(Maximum Life increase +5%)" OptType="Armor" />
+		<Item Hex="49" Name="Wind(Maximum Mana increase +5%)" OptType="Armor" />
+		<Item Hex="4A" Name="Wind(Automatic Mana recovery increase +14)" OptType="Armor" />
+		<Item Hex="4B" Name="Wind(Maximum AG increase +30)" OptType="Armor" />
+		<Item Hex="4C" Name="Wind(AG value increase +5)" OptType="Armor" />
+		<Item Hex="4F" Name="Lightning(Excellent damage increase +20)" OptType="Weapon" />
+		<Item Hex="50" Name="Lighting(Excellent damage rate increase +11%)" OptType="Weapon" />
+		<Item Hex="51" Name="Lighting(Critical damage increase +32)" OptType="Weapon" />
+		<Item Hex="52" Name="Lighting(Critical damage rate increase +9%)" OptType="Weapon" />
+		<Item Hex="59" Name="Ground(Health increase +32)" OptType="Armor" />
+		<!-- 3 LVL -->
+		<Item Hex="64" Name="Fire((Level type)Attack/Wizardry increase +21)" OptType="Weapon" />
+		<Item Hex="65" Name="Fire(Attack speed increase +9)" OptType="Weapon" />
+		<Item Hex="66" Name="Fire(Maximum attack/Wizardry increase +35)" OptType="Weapon" />
+		<Item Hex="67" Name="Fire(Minimum attack/Wizardry increase +25)" OptType="Weapon" />
+		<Item Hex="68" Name="Fire(Attack/Wizardry increase +25)" OptType="Weapon" />
+		<Item Hex="69" Name="Fire(AG cost decrease +42%)" OptType="Weapon" />
+		<Item Hex="6E" Name="Water(Block rating increase +12%)" OptType="Armor" />
+		<Item Hex="6F" Name="Water(Defense increase +36)" OptType="Armor" />
+		<Item Hex="70" Name="Water(Shield protection increase +15%)" OptType="Armor" />
+		<Item Hex="71" Name="Water(Damage reduction +6%)" OptType="Armor" />
+		<Item Hex="72" Name="Water(Damage reflection +7%)" OptType="Armor" />
+		<Item Hex="74" Name="Ice(Monster destruction for the Life increase +74)" OptType="Weapon" />
+		<Item Hex="75" Name="Ice(Monster destruction for the Mana increase +74)" OptType="Weapon" />
+		<Item Hex="76" Name="Ice(Skill attack increase +45)" OptType="Weapon" />
+		<Item Hex="77" Name="Ice(Attack rating increase +30)" OptType="Weapon" />
+		<Item Hex="78" Name="Ice(Item durability increase +34%)" OptType="Weapon" />
+		<Item Hex="79" Name="Wind(Automatic Life recovery increase +13)" OptType="Armor" />
+		<Item Hex="7A" Name="Wind(Maximum Life increase +6%)" OptType="Armor" />
+		<Item Hex="7B" Name="Wind(Maximum Mana increase +6%)" OptType="Armor" />
+		<Item Hex="7C" Name="Wind(Automatic Mana recovery increase +21)" OptType="Armor" />
+		<Item Hex="7D" Name="Wind(Maximum AG increase +35)" OptType="Armor" />
+		<Item Hex="7E" Name="Wind(AG value increase +7)" OptType="Armor" />
+		<Item Hex="81" Name="Lightning(Excellent damage increase +25)" OptType="Weapon" />
+		<Item Hex="82" Name="Lighting(Excellent damage rate increase +12%)" OptType="Weapon" />
+		<Item Hex="83" Name="Lighting(Critical damage increase +35)" OptType="Weapon" />
+		<Item Hex="84" Name="Lighting(Critical damage rate increase +10%)" OptType="Weapon" />
+		<Item Hex="88" Name="Ground(Health increase +34)" OptType="Armor" />
+		<!-- 4 LVL -->
+		<Item Hex="96" Name="Fire((Level type)Attack/Wizardry increase +22)" OptType="Weapon" />
+		<Item Hex="97" Name="Fire(Attack speed increase +10)" OptType="Weapon" />
+		<Item Hex="98" Name="Fire(Maximum attack/Wizardry increase +40)" OptType="Weapon" />
+		<Item Hex="99" Name="Fire(Minimum attack/Wizardry increase +30)" OptType="Weapon" />
+		<Item Hex="9A" Name="Fire(Attack/Wizardry increase +30)" OptType="Weapon" />
+		<Item Hex="9B" Name="Fire(AG cost decrease +43%)" OptType="Weapon" />
+		<Item Hex="A0" Name="Water(Block rating increase +13%)" OptType="Armor" />
+		<Item Hex="A1" Name="Water(Defense increase +39)" OptType="Armor" />
+		
+	</Section>
+</ItemList>

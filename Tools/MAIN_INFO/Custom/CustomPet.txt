@@ -1,0 +1,77 @@
+//==============================================================================
+// Custom Pet Config File
+// Agregar archivos en: [Data/Item]
+// Index  - ItemIndex
+// IndexInv - Index Texture view in inventory
+// ModelName - Name File BMD
+// Fenrir    - Effect Fenrir
+// 1 - Effect Fenrir
+// 2 - Effect Fenrir Golden
+// Inv - Inventory
+// Drop - Drop in game
+// View - Size in use player
+// Type: Moviment like a:
+// 5  - Fenrir (Mount)		
+// 6  - Dark Horse (Mount) 
+// 7  - Uniria (Mount) 	
+// 8  - Muun Pet
+// 9  - Angel
+// 10 - Satan 		
+//===================================================================================
+//Index	IndexInv Type	ModelName			Fenrir	Inv	Drop	View
+//===================================================================================
+   6856	6693	5	"fiercelion"			1	1.0	1.0	0.85
+   6857	6693	5	"fiercelionR"			2	1.0	1.0	0.85
+   6858	6858	6	"Horse_ghost_skin2_skill"	0	0.50	0.50	1.0
+   6859	6859	6	"Horse_ghost_skin3_skill"	0	0.50	0.50	1.0
+   6860	6693	5	"icedragon"			0	1.0	1.0	1.0
+   6861	6693	5	"icedragon_rare"		0	1.0	1.0	1.0
+   6866	6866	8	"dragonpet"			0	1.0	1.0	1.0
+   6867	6867	8	"dragonpet_evol"		0	1.0	1.0	1.0
+   6868	6868	8	"stonepet"			0	1.0	1.0	1.0
+   6869	6869	8	"stonepet_evol"			0	1.0	1.0	1.0
+   6870	6870	8	"mermaidpet"			0	1.0	1.0	1.0
+   6871	6871	8	"mermaidpet_evol"		0	1.0	1.0	1.0
+   6872	6872	8	"satanpet"			0	1.0	1.0	1.0
+   6873	6873	8	"satanpet_evol"			0	1.0	1.0	1.0
+   6874	6874	8	"williumpet"			0	1.0	1.0	1.0
+   6875	6875	8	"williumpet_evol"		0	1.0	1.0	1.0
+   6876	6876	8	"polpet"			0	1.0	1.0	1.0
+   6877	6877	8	"polpet_evol"			0	1.0	1.0	1.0
+   6878	6878	8	"kironpet"			0	1.0	1.0	1.0
+   6879	6879	8	"kironpet_evol"			0	1.0	1.0	1.0
+   6880	6880	8	"wooparoopet"			0	1.0	1.0	1.0
+   6881	6881	8	"wooparoopet_evol"		0	1.0	1.0	1.0
+   6882	6882	8	"wolfpet"			0	1.0	1.0	1.0
+   6883	6883	8	"wolfpet_evol"			0	1.0	1.0	1.0
+   6884	6884	8	"witchpet"			0	1.0	1.0	1.0
+   6885	6885	8	"witchpet_evol"			0	1.0	1.0	1.0
+   6886	6886	8	"skullpet"			0	1.0	1.0	1.0
+   6887	6887	8	"skullpet_evol"			0	1.0	1.0	1.0
+   6888	6888	8	"pumpipet"			0	1.0	1.0	1.0
+   6889	6889	8	"pumpipet_evol"			0	1.0	1.0	1.0
+   6890	6890	8	"sabatpet"			0	1.0	1.0	1.0
+   6891	6891	8	"sabatpet_evol"			0	1.0	1.0	1.0
+   6892	6892	8	"lycanpet"			0	1.0	1.0	1.0
+   6893	6893	8	"lycanpet_evol"			0	1.0	1.0	1.0
+   6894	6894	8	"tobypet"			0	1.0	1.0	1.0
+   6895	6895	8	"tobypet_evol"			0	1.0	1.0	1.0
+   6896	6896	8	"seirenpet"			0	1.0	1.0	1.0
+   6897	6897	8	"seirenpet_evol"		0	1.0	1.0	1.0
+   6898	6898	8	"behemothpet"			0	1.0	1.0	1.0
+   6899	6899	8	"behemothpet_evol"		0	1.0	1.0	1.0
+   6900	6900	8	"loglepet"			0	1.0	1.0	1.0
+   6901	6901	8	"loglepet_evol"			0	1.0	1.0	1.0
+   6902	6902	8	"minopet"			0	1.0	1.0	1.0
+   6903	6903	8	"minopet_evol"			0	1.0	1.0	1.0
+   6904	6904	8	"houndpet"			0	1.0	1.0	1.0
+   6905	6905	8	"houndpet_evol"			0	1.0	1.0	1.0
+   6906	6906	8	"tribepet"			0	1.0	1.0	1.0
+   6907	6907	8	"tribepet_evol"			0	1.0	1.0	1.0
+   6908	6908	8	"bogeonpet"			0	1.0	1.0	1.0
+   6909	6909	8	"bogeonpet_evol"		0	1.0	1.0	1.0
+   6910	6910	8	"cyclopspet"			0	1.0	1.0	1.0
+   6911	6911	8	"cyclopspet_evol"		0	1.0	1.0	1.0
+   6912	6912	8	"rippenpet"			0	1.0	1.0	1.0
+   6913	6913	8	"rippenpet_evol"		0	1.0	1.0	1.0
+end

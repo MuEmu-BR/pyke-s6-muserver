@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	Type of rewards (0: Zen, 1: WCoinC, 2: WCoinP, 3: WCoinG, 4: Credits, 5: LevelUpPoints)
+-->
+
+<achievements enable="1">
+	<mission>
+		<info index="0" count="1000000" rewardType="0" rewardValue="0" Name="Monster Kill"/> <!-- MonsterKill -->
+		<info index="1" count="100" rewardType="1" rewardValue="0" Name="Golden Kill"/> <!-- GoldenKill -->
+		<info index="2" count="250000" rewardType="2" rewardValue="0" Name="Kalima Monster Kill"/> <!-- KalimaMonserKill -->
+		<info index="3" count="10" rewardType="3" rewardValue="0" Name="White Wizard Kill"/> <!-- WhiteWizardKill -->
+		<info index="4" count="1000" rewardType="4" rewardValue="0" Name="Player Kill"/> <!-- PlayerKill -->
+		<info index="5" count="25" rewardType="0" rewardValue="0" Name="Red Dragon Kill"/> <!-- RedDragonKill -->
+		<info index="6" count="50" rewardType="0" rewardValue="0" Name="Orc Kill"/> <!-- OrcKill -->
+		<info index="7" count="25" rewardType="0" rewardValue="0" Name="Kill gate BC"/> <!-- KillGateBC -->
+		<info index="8" count="25" rewardType="0" rewardValue="0" Name="Take part in CC"/> <!-- TakePartInCC -->
+		<info index="9" count="10" rewardType="0" rewardValue="0" Name="Winning the CC"/> <!-- WinningTheCC -->
+		<info index="10" count="480" rewardType="0" rewardValue="0" Name="Online Time"/> <!-- OnlineTime -->
+		<info index="11" count="250" rewardType="0" rewardValue="0" Name="Pick up Jewels"/> <!-- PickUpJewels -->
+		<info index="12" count="350" rewardType="0" rewardValue="0" Name="Used Jewels"/> <!-- UsedJewels -->
+		<info index="13" count="800" rewardType="0" rewardValue="0" Name="Success Chaos Mix"/> <!-- SuccessChaosMix -->
+		<info index="14" count="500" rewardType="0" rewardValue="0" Name="Failed Chaos Mix"/> <!-- FailedChaosMix -->
+		<info index="15" count="2000000000" rewardType="0" rewardValue="0" Name="Pick up Zen"/> <!-- PickUpZen -->
+		<info index="16" count="50" rewardType="0" rewardValue="0" Name="Pick up Excellent"/> <!-- PickUpExellent -->
+		<info index="17" count="35" rewardType="0" rewardValue="0" Name="Pick up Ancent"/> <!-- PickUpAncient -->
+		<info index="18" count="25" rewardType="0" rewardValue="0" Name="Duel Win"/> <!-- DuelWin -->
+		<info index="19" count="10000" rewardType="0" rewardValue="0" Name="Level up"/> <!-- LevelUp -->
+		<info index="20" count="100" rewardType="0" rewardValue="0" Name="Reset up"/> <!-- ResetUp -->
+		<info index="21" count="20" rewardType="0" rewardValue="0" Name="Kanturu Boss Kill"/> <!-- KanturuBossKill -->
+		<info index="22" count="500000" rewardType="0" rewardValue="0" Name="Monster 100lvl Kill"/> <!-- Monster100LvlKill -->
+		<info index="23" count="50" rewardType="0" rewardValue="0" Name="Mootop vote"/> <!-- MmotopVote -->
+		<info index="24" count="100" rewardType="0" rewardValue="0" Name="Phonoman Kill"/> <!-- PhonomanKill -->
+		<info index="25" count="25" rewardType="0" rewardValue="0" Name="CryWolf Event Monster"/> <!-- CryWolfEventMonster -->
+		<info index="26" count="100" rewardType="0" rewardValue="0" Name="Hell Main Kill"/> <!-- HellMainKill -->
+		<info index="27" count="200" rewardType="0" rewardValue="0" Name="Kill in self-defense"/> <!-- KillInSelf_Defense -->
+		<info index="28" count="3" rewardType="0" rewardValue="0" Name="Selupan Kill"/> <!-- SelupanKill -->
+		<info index="29" count="3" rewardType="0" rewardValue="0" Name="Kundun Kill"/> <!-- KundunKill -->
+		<info index="30" count="25" rewardType="0" rewardValue="0" Name="Kill Statue BC"/> <!-- KillStatueBC -->
+		<info index="31" count="50" rewardType="0" rewardValue="0" Name="Complete BC"/> <!-- CompleteBC -->
+		<info index="32" count="5" rewardType="0" rewardValue="0" Name="Grand Reset up"/> <!-- GrandResetUp -->
+		<info index="33" count="100" rewardType="0" rewardValue="0" Name="Blue Rabbit Killer"/> <!-- BlueRabbitKiller -->
+		<info index="34" count="100" rewardType="0" rewardValue="0" Name="Happy Pouches Killer"/> <!-- HappyPouchesKiller -->
+		<info index="35" count="100" rewardType="0" rewardValue="0" Name="Pheonix Kill"/> <!-- PheonixKill -->
+		<info index="36" count="500" rewardType="0" rewardValue="0" Name="Kanturu Monster Kill"/> <!-- KanturuMonsterKill -->
+		<info index="37" count="25" rewardType="0" rewardValue="0" Name="Move player from Switch"/> <!-- MovePlayerFromSwitch -->
+		<info index="38" count="10" rewardType="0" rewardValue="0" Name="Withstand Switch 10 min"/> <!-- WithstandSwitch10min -->
+		<info index="39" count="25" rewardType="0" rewardValue="0" Name="Move player from Crown"/> <!-- MovePlayerFromCrown -->
+		<info index="40" count="1" rewardType="0" rewardValue="0" Name="Win Siege"/> <!-- WinSiege -->
+		<info index="41" count="10" rewardType="0" rewardValue="0" Name="Kill Castle Siege NPC"/> <!-- KillCastleSiegeNPC -->
+		<info index="42" count="100" rewardType="0" rewardValue="0" Name="Kill player Castle Siege"/> <!-- KillPlayerCastleSiege -->
+		<info index="43" count="3" rewardType="0" rewardValue="0" Name="Kill Erohim"/> <!-- KillErohim -->
+		<info index="44" count="5000" rewardType="0" rewardValue="0" Name="Buy Donate Shop Item"/> <!-- BuyDonateShopItem -->
+		<info index="45" count="5" rewardType="0" rewardValue="0" Name="Guild War Win"/> <!-- GuildWarWin -->
+		<info index="46" count="400" rewardType="0" rewardValue="0" Name="Party noob level up"/> <!-- PartyNoobLevelUp -->
+		<info index="47" count="25" rewardType="0" rewardValue="0" Name="Kill  Gnome"/> <!-- PickUpRena -->
+		<info index="48" count="25" rewardType="0" rewardValue="0" Name="Kill Muff"/> <!-- PickUpLuckyCoins -->
+		<info index="49" count="240" rewardType="0" rewardValue="0" Name="Offline Attack Time"/> <!-- OfflineAttackTime -->
+		
+	</mission>
+	<power>
+		<damageMax>5000</damageMax>
+		<defenseMax>5000</defenseMax>
+		<lifeMax>10000</lifeMax>
+		<excellentDamageMax>25</excellentDamageMax>
+		<criticalDamageMax>25</criticalDamageMax>
+		
+		<divDamage>100</divDamage>
+		<divDefense>100</divDefense>
+		<divLife>200</divLife>
+		<divExcellentPercent>50</divExcellentPercent>
+		<divCriticalPercent>50</divCriticalPercent>
+	</power>
+</achievements>

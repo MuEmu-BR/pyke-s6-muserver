@@ -1,0 +1,33 @@
+// ----------------------------------------------------------------------------------
+// Description: Config BOT Alchemist
+// ----------------------------------------------------------------------------------
+//===================================================================================
+
+// -----------------------------------------------------------------------------------
+//	BotIndex	Class	SuccessRate	Name		Map	X	Y	Dir
+// -----------------------------------------------------------------------------------
+0
+end
+
+
+// -----------------------------------------------------------------------------------
+//	BotIndex	Slot	Type	Index	Level	Opt
+// -----------------------------------------------------------------------------------
+1
+end
+
+// -----------------------------------------------------------------------------------
+//	BotIndex	AllowLevel	AllowOpt	AllowLuck	AllowSkill	AllowExc
+// -----------------------------------------------------------------------------------
+2
+end
+
+
+// -----------------------------------------------------------------------------------
+//	PriceType: 0 = Zen, 1 = WcoinC, 2 = WcoinP, 3 = Goblin Point
+//	AcceptOnlySameType = Only Accept for example Swords with Swords, and not Swords with Axes
+//	OnlyIfDestinyLower = Only Accept if destiny item level is lower or equals than source item level +10 and -10
+//	BotIndex	VipLevel		PriceType	PriceCount	AcceptOnlySameType	OnlyIfDestinyLower	AcceptAncient	MaxItemLevel	MaxItemExcCount
+// -----------------------------------------------------------------------------------
+3
+end

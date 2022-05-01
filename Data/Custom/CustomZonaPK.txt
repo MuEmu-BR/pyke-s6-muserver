@@ -1,0 +1,3 @@
+//Map	X		Y		TX		TY		PKFree
+0		102		172		118		180		1
+end

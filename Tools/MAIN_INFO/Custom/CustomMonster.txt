@@ -1,0 +1,57 @@
+// Custom: Monster Add
+//**************************
+// ----------------------------------------------------------------------------------
+// Type = 0: NPC
+// Type = 1: Monster
+// -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+// MonsterID | 	Type | 	Name 			| Dir | 					| Folder | 					| BMDFile 			| Size |
+// -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+//Custom NPC
+600		0	"600"			"Data\\Custom\\Monster\\NPC\\"			"Custom\\Monster\\NPC\\"			"adniel"			1.00
+601		0	"601"			"Data\\Custom\\Monster\\NPC\\"			"Custom\\Monster\\NPC\\"			"chaos_npc"			0.50
+602		0	"602"			"Data\\Custom\\Monster\\NPC\\"			"Custom\\Monster\\NPC\\"			"deruvish"			1.00
+603		0	"603"			"Data\\Custom\\Monster\\NPC\\"			"Custom\\Monster\\NPC\\"			"lesnar"			1.00
+604		0	"604"			"Data\\Custom\\Monster\\NPC\\"			"Custom\\Monster\\NPC\\"			"monicaNPC"			0.50
+605		0	"605"			"Data\\Custom\\Monster\\NPC\\"			"Custom\\Monster\\NPC\\"			"npc_livain"			1.00
+606		0	"606"			"Data\\Custom\\Monster\\NPC\\"			"Custom\\Monster\\NPC\\"			"npcelin"			0.50
+607		0	"607"			"Data\\Custom\\Monster\\NPC\\"			"Custom\\Monster\\NPC\\"			"scent"				1.00
+608		0	"608"			"Data\\Custom\\Monster\\NPC\\"			"Custom\\Monster\\NPC\\"			"slope"				0.50
+609		0	"609"			"Data\\Custom\\Monster\\NPC\\"			"Custom\\Monster\\NPC\\"			"spiritnixie"			1.00
+//Custom NPC Awakening
+610		0	"Quest Master"		"Data\\Custom\\Monster\\NPC\\Awakening\\"	"Custom\\Monster\\NPC\\Awakening\\"		"NPC_012"			1.00
+611		0	"Reset Master"		"Data\\Custom\\Monster\\NPC\\Awakening\\"	"Custom\\Monster\\NPC\\Awakening\\"		"NPC_031"			1.00
+612		0	"Party Master"		"Data\\Custom\\Monster\\NPC\\Awakening\\"	"Custom\\Monster\\NPC\\Awakening\\"		"NPC_032"			1.00
+613		0	"Shop Search"		"Data\\Custom\\Monster\\NPC\\Awakening\\"	"Custom\\Monster\\NPC\\Awakening\\"		"NPC_419"			1.00
+614		0	"Team vs Team"		"Data\\Custom\\Monster\\NPC\\Awakening\\"	"Custom\\Monster\\NPC\\Awakening\\"		"NPC_420"			1.00
+615		0	"615"			"Data\\Custom\\Monster\\NPC\\Awakening\\"	"Custom\\Monster\\NPC\\Awakening\\"		"NPC_421"			1.00
+616		0	"616"			"Data\\Custom\\Monster\\NPC\\Awakening\\"	"Custom\\Monster\\NPC\\Awakening\\"		"NPC_423"			1.00
+617		0	"617"			"Data\\Custom\\Monster\\NPC\\Awakening\\"	"Custom\\Monster\\NPC\\Awakening\\"		"NPC_425"			1.00
+618		0	"618"			"Data\\Custom\\Monster\\NPC\\Awakening\\"	"Custom\\Monster\\NPC\\Awakening\\"		"NPC_426"			1.00
+619		0	"619"			"Data\\Custom\\Monster\\NPC\\Awakening\\"	"Custom\\Monster\\NPC\\Awakening\\"		"NPC_437"			1.00
+//Custom Monster
+620		1	"Snake Green"		"Data\\Custom\\Monster\\"			"Custom\\Monster\\"				"monster253"			1.00
+621		1	"Snake Yellow"		"Data\\Custom\\Monster\\"			"Custom\\Monster\\"				"monster254"			1.00
+622		1	"Snake Purple"		"Data\\Custom\\Monster\\"			"Custom\\Monster\\"				"monster255"			1.00
+623		1	"Snake Red"		"Data\\Custom\\Monster\\"			"Custom\\Monster\\"				"monster256"			1.00
+624		1	"Horse Green"		"Data\\Custom\\Monster\\"			"Custom\\Monster\\"				"monster266"			1.00
+625		1	"Horse Yellow"		"Data\\Custom\\Monster\\"			"Custom\\Monster\\"				"monster267"			1.00
+626		1	"Horse Purple"		"Data\\Custom\\Monster\\"			"Custom\\Monster\\"				"monster268"			1.00
+627		1	"Horse Red"		"Data\\Custom\\Monster\\"			"Custom\\Monster\\"				"monster269"			1.00
+628		1	"Goblin Green"		"Data\\Custom\\Monster\\"			"Custom\\Monster\\"				"monster270"			1.00
+629		1	"Goblin Yellow"		"Data\\Custom\\Monster\\"			"Custom\\Monster\\"				"monster271"			1.00
+630		1	"Goblin Purple"		"Data\\Custom\\Monster\\"			"Custom\\Monster\\"				"monster272"			1.00
+631		1	"Goblin Red"		"Data\\Custom\\Monster\\"			"Custom\\Monster\\"				"monster273"			1.00
+632		1	"Sheep Green"		"Data\\Custom\\Monster\\"			"Custom\\Monster\\"				"monster278"			1.00
+633		1	"Sheep Yellow"		"Data\\Custom\\Monster\\"			"Custom\\Monster\\"				"monster279"			1.00
+634		1	"Sheep Purple"		"Data\\Custom\\Monster\\"			"Custom\\Monster\\"				"monster280"			1.00
+635		1	"Sheep Red"		"Data\\Custom\\Monster\\"			"Custom\\Monster\\"				"monster281"			1.00
+636		1	"Chicken Green"		"Data\\Custom\\Monster\\"			"Custom\\Monster\\"				"monster307"			1.00
+637		1	"Chicken Yellow"	"Data\\Custom\\Monster\\"			"Custom\\Monster\\"				"monster308"			1.00
+638		1	"Chicken Purple"	"Data\\Custom\\Monster\\"			"Custom\\Monster\\"				"monster309"			1.00
+639		1	"Chicken Red"		"Data\\Custom\\Monster\\"			"Custom\\Monster\\"				"monster310"			1.00
+640		1	"Lancer"		"Data\\Custom\\Monster\\"			"Custom\\Monster\\"				"monster311"			1.00
+641		1	"Pakkun Green"		"Data\\Custom\\Monster\\"			"Custom\\Monster\\"				"monster333"			1.00
+642		1	"Pakkun Yellow"		"Data\\Custom\\Monster\\"			"Custom\\Monster\\"				"monster334"			1.00
+643		1	"Pakkun Purple"		"Data\\Custom\\Monster\\"			"Custom\\Monster\\"				"monster335"			1.00
+644		1	"Pakkun Red"		"Data\\Custom\\Monster\\"			"Custom\\Monster\\"				"monster336"			1.00
+end

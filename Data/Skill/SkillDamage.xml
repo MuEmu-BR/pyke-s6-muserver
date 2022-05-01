@@ -1,0 +1,17 @@
+<!--
+// ### SkillDamage::Skill ###
+//	Index: Skill index, refer to SkillList.xml
+//	DamageRate: Final percentage of damage. Formula: SkillDamage * DamageRate / 100
+//	Description: Used for in-file, log and tools description purpose
+//
+// ##~~ All abilities not listed here will have a DamageRate in 100 ~~##
+-->
+
+<SkillDamage>
+	<Skill Index="17" DamageRate="100" Description="Energy Ball" />
+	<Skill Index="41" DamageRate="100" Description="Twisting Slash" />
+	<Skill Index="42" DamageRate="100" Description="Rageful Blow" />
+	<Skill Index="43" DamageRate="100" Description="Death Stab" />
+	<Skill Index="327" DamageRate="100" Description="Add Slash Improved" />
+	<Skill Index="330" DamageRate="100" Description="Add Twisting Slash Improved" />
+</SkillDamage>

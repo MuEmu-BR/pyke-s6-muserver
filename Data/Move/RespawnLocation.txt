@@ -1,0 +1,42 @@
+//Map   MoveGate   Gate
+0       1          17      // ->LORENCIA
+1       1          17      // ->DUNGEON
+2       1          22      // ->DEVIAS
+3       1          27      // ->NORIA
+4       1          42      // ->LOST TOWER
+6       0          *       // ->ARENA
+7       1          49      // ->ATLANS
+8       1          57      // ->TARKAN
+10      1          22      // ->ICARUS
+31      1          106     // ->LAND OF TRIALS
+33      1          119     // ->AIDA
+37      1          138     // ->KANTURU1
+38      1          139     // ->KANTURU2
+39      1          137     // ->KANTURU3
+40      1          402     // ->SILENT
+41      1          256     // ->BARRAKS
+42      1          256     // ->REFUGE
+51      1          267     // ->ELBELAND
+56      1          273     // ->SWAMP OF CALMNESS
+57      1          286     // ->RAKLION
+58      1          286     // ->RAKLION2
+62      1          22      // ->SANTA TOWN
+63      1          137     // ->VULCANUS
+79      1          333     // ->LOREN MARKET
+80      1          335     // ->KARUTAN1
+81      1          335     // ->KARUTAN2
+83      1          426     // ->ACHERON
+84      1          443     // ->DEVENTER
+85      1          452     // ->URUK
+86      1          453     // ->FEREA
+87      1          *       // ->TEAMVSTEAM
+88		1		   *	   // ->NARS
+89		1		   455	   // ->NIXIE LAKE
+90		1		   17	   // ->DEEP DUNGEON 1
+91		1		   17	   // ->DEEP DUNGEON 2
+92		1		   17	   // ->DEEP DUNGEON 3
+93		1		   17	   // ->DEEP DUNGEON 4
+94		1		   17	   // ->DEEP DUNGEON 5
+95		1		   *	   // ->SWAMP OF DARKNESS
+96		1		   497	   // ->S15 MAP
+end

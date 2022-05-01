@@ -1,0 +1,32 @@
+<!--
+// ### PKItemDrop::PK ###
+//	Level: Level of PK, do not change the configuration of Level attribute
+//	ItemLoseRateOnMonsterKill: Chance of dropping off part of equipment on being killed by Monster at specified PK Level, 0-100 (%)
+//	ItemLoseRateOnPlayerKill: Chance of dropping off part of equipment on being killed by Player at specified PK Level, 0-100 (%)
+//	ItemMinLevel: Item of level minimum to the value will not drop off from the PK upon kill, 0-15
+//	ItemMaxLevel: Item of level above to the value will not drop off from the PK upon kill, 0-15
+//	DropExc: Defines whether to drop excellent items off from PK upon kill, 0/1
+//	DropSet: Defines whether to drop ancient items off from PK upon kill, 0/1
+//	DropSocket: Defines whether to drop socket items off from PK upon kill, 0/1
+//	DropHarmony: Defines whether to drop harmony items off from PK upon kill, 0/1
+//
+// ### PKSafeZone::Rule ###
+//	MapNumber: Number of the map where the rule applies
+//	StartPosX: Start range X to apply the rule
+//	StartPosY: Start range Y to apply the rule
+//	EndPosX: End range X to apply the rule
+//	EndPosY: End range X to apply the rule
+//	Description: Used for in-file, log and tools description purpose
+-->
+<!--
+<PKItemDrop>
+	<PK Level="4" ItemLoseRateOnMonsterKill="0" ItemLoseRateOnPlayerKill="0" ItemMinLevel="0" ItemMaxLevel="1" DropExc="0" DropSet="0" DropSocket="0" DropHarmony="0" />
+	<PK Level="5" ItemLoseRateOnMonsterKill="0" ItemLoseRateOnPlayerKill="0" ItemMinLevel="0" ItemMaxLevel="1" DropExc="0" DropSet="0" DropSocket="0" DropHarmony="0" />
+	<PK Level="6" ItemLoseRateOnMonsterKill="0" ItemLoseRateOnPlayerKill="0" ItemMinLevel="0" ItemMaxLevel="1" DropExc="0" DropSet="0" DropSocket="0" DropHarmony="0" />
+	<PK Level="7" ItemLoseRateOnMonsterKill="0" ItemLoseRateOnPlayerKill="0" ItemMinLevel="0" ItemMaxLevel="1" DropExc="0" DropSet="0" DropSocket="0" DropHarmony="0" />
+</PKItemDrop>
+-->
+
+<PKSafeZone>
+	<Rule MapNumber="2" StartPosX="223" StartPosY="37" EndPosX="237" EndPosY="51" Description="Devias Arena"/>
+</PKSafeZone>

@@ -1,0 +1,12 @@
+//===============================================================================================================
+// CustomCloak Config File
+//===============================================================================================================
+// Agregar archivos en: [Data/Item]
+//===============================================================================================================
+//ItemType	Mode 	CloakName								StripName
+//6304		1		"Item\\KF_darklordwing4de.tga"			"Item\\KF_darklordwing4dd.tga"
+//6306		0		"Item\\KF_ragefighterwing4db.tga"		*
+//6299		1		"Item\\KF_Death_clka.tga"			"Item\\KF_Death_clkb.tga"
+//6383		0		"Item\\KF_season_wing_periodc.tga"		*
+//6344		0		"Item\\growlancerwing4dc.tga"			*
+end

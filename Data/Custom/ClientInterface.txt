@@ -1,0 +1,38 @@
+[Interface]
+;==================================================
+; Interface Button
+;==================================================
+QuickAddButton		=	1
+ResetPointButton	=	1
+ResetPointWCCheckbox	=	1
+ResetPointZENCheckbox	=	1
+ResetMasterWCCheckbox	=	1
+ResetMasterZENCheckBox	=	1
+;==================================================
+; Party
+;==================================================
+PartyLeaderButton	=	1
+PartyTraceButton	=	1
+TraceNeedZen_Vip0	=	10000000
+TraceNeedZen_Vip1	=	10000000
+TraceNeedZen_Vip2	=	10000000
+TraceNeedZen_Vip3	=	10000000
+;==================================================
+; Price
+;==================================================
+ResetPointZEN_Vip0	=	100000000
+ResetPointZEN_Vip1	=	90000000
+ResetPointZEN_Vip2	=	80000000
+ResetPointZEN_Vip3	=	70000000
+ResetPointWC_Vip0	=	500
+ResetPointWC_Vip1	=	400
+ResetPointWC_Vip2	=	300
+ResetPointWC_Vip3	=	200
+ResetMasterSkillZEN_Vip0	=	50000000
+ResetMasterSkillZEN_Vip1	=	40000000
+ResetMasterSkillZEN_Vip2	=	30000000
+ResetMasterSkillZEN_Vip3	=	20000000
+ResetMasterSkillWC_Vip0	=	400
+ResetMasterSkillWC_Vip1	=	300
+ResetMasterSkillWC_Vip2	=	200
+ResetMasterSkillWC_Vip3	=	100

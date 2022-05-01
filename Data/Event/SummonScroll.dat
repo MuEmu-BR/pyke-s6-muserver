@@ -1,0 +1,52 @@
+0
+//============================
+//Index   ItemIndex   Comment
+//============================
+0         7730        //Summon Scroll Lv1
+1         7379        //Summon Scroll Lv2
+2         7380        //Summon Scroll Lv3
+3         7381        //Summon Scroll Lv4
+4         7382        //Titan's Anger
+5         7383        //Tantalose's Punishment
+6         7384        //Erohim's Nightmare
+7         7385        //Hell Maine's Insanity
+8         7386        //Kundun's Greed
+9         7387        //Book of Monster Invocation
+10        7393         //The Lizard's King Anger
+end
+
+1
+//====================================================
+//Index   Group   MonsterClass   CreateRate   Comment
+//====================================================
+0         0       904            10000      //Golden Derkon
+1         0       497            10000      //Satyros
+2         0       499            10000      //Golden Iron Knight
+3         0       501            10000      //Great Golden Dragon
+
+4         0       053            10000      //Golden Titan
+4         1       054            10000      //Golden Soldier
+
+5         0       082            10000      //Golden Tantalos
+5         1       083            10000      //Golden Wheel
+
+6         0       295            10000      //Erohim
+
+7         0       309            10000      //Hell Maine
+
+8         0       275            10000      //Kundun
+8         1       082            10000      //Illusion of Kundun
+8         2       082            10000      //Illusion of Kundun
+8         3       082            10000      //Illusion of Kundun
+8         4       082            10000      //Illusion of Kundun
+
+9         0       043            10000      //Golden Budge Dragon
+9         1       078            10000      //Golden Goblin
+9         2       493            10000      //Golden Dark Knight
+9         3       494            10000      //Golden Devil
+9         4       495            10000      //Golden Stone Golem
+9         5       496            10000      //Golden Crust
+
+10     0     80       10000      //Golden Lizard King
+10     1     81       1000000      //Golden Vepar
+end
